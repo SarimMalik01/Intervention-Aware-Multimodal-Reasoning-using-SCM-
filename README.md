@@ -39,3 +39,6 @@ python evaluate.py
 ```
 
 The first run downloads DETR and BERT weights from Hugging Face.
+
+## Google Collab NoteBook
+https://colab.research.google.com/drive/1gc8_qWXL_sxYWe8thv1v4v5BfdpCYWNU?usp=sharing
