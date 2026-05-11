@@ -1,0 +1,10 @@
+torch
+transformers
+torchvision
+pillow
+numpy
+matplotlib
+networkx
+opencv-python
+scipy
+pytest
